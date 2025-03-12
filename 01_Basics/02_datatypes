@@ -1,0 +1,19 @@
+let age = 10
+let name = "Rahul"
+
+let number
+
+console.log(typeof age)             // number
+console.log(typeof name)            // string
+console.log(typeof number)          // undefined
+console.log(typeof undefined)       // undefined
+console.log(typeof null)            // object
+
+// number => 2 to power 53
+// bigint
+// boolean => true/false
+// null => standalone value
+// undefined => 
+// symbol => unique
+
+// object
