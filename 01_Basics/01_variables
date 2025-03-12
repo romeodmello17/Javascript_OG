@@ -1,0 +1,25 @@
+const number = 1000
+let address = "Thane"
+var state = "Maharashtra"
+country = "India"
+
+let power;
+
+// number = 2000
+// console.log(number); cannot assign new value to  const variable
+
+console.log(number);
+
+address = "Mumbai"
+state = "UP"
+
+/* 
+Never use var keyword , 
+because of the block scope and functional scope problem.
+*/ 
+
+
+console.table([number, address, state, country, power]);
+
+
+

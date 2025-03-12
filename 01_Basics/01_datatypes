@@ -1,0 +1,10 @@
+let age = 10
+let name = "Rahul"
+
+let number
+
+console.log(typeof age)
+console.log(typeof name)
+console.log(typeof number)
+
+
